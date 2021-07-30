@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "expo-barcode",
+    "slug": "expo-barcode",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "expo-barcode"
+}
